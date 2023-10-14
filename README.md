@@ -1,5 +1,5 @@
 # Wordle
-C++ CLI implementation of the popular game Wordle
+C++ terminal-based implementation of the popular game Wordle
 # Setting up the game
 ```
 sudo apt install g++
